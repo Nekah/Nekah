@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Nekah/Nekah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Nekah/Nekah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on using superwires to create simple games.
 - 🌱 I’m currently learning Python and R for data science, this month I'm learning about matplotlib and Pandas packages.
